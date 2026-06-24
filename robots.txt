@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://VTNODExchange.github.io/sitemap.xml
